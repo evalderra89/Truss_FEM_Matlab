@@ -1,0 +1,17 @@
+$Nodes
+4
+$location_x_y_dof_x_y
+0 0 0 0
+0 120 1 1
+120 120 1 1
+120 0 1 1
+$Connexion
+3
+$Ni_Nj_A_E
+1 2 2 30e6
+1 3 2 30e6
+1 4 2 30e6
+$Forces
+1
+$Nodes_Fh_Fv
+1 0.0 -10000.0
